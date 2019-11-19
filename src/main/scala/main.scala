@@ -1,3 +1,4 @@
+/*
 class Personaje{
   var energia
 
@@ -39,3 +40,4 @@ class Trama{
   var persoajes
   var escenario
 }
+*/
