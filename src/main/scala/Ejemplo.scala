@@ -1,6 +1,7 @@
 package animales
 
-abstract class Animal(var anios: Int) {
+abstract class Animal(var anios: Int)
+{
   def cumplirAnios() = {
     this.anios += 1
   }
